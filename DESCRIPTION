@@ -1,4 +1,4 @@
-Package: CoxKL
+Package: CoxKL2
 Type: Package
 Title: Kullback-Leibler-Based Cox Models
 Version: 1.0
