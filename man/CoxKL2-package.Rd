@@ -1,6 +1,6 @@
-\name{CoxKL-package}
-\alias{CoxKL-package}
-\alias{CoxKL}
+\name{CoxKL2-package}
+\alias{CoxKL2-package}
+\alias{CoxKL2}
 \docType{package}
 \title{
   Kullback-Leibler-Based Cox Models
