@@ -1,3 +1,3 @@
-useDynLib(CoxKL, .registration=TRUE)
+useDynLib(CoxKL2, .registration=TRUE)
 importFrom(Rcpp, evalCpp)
 exportPattern("^[[:alpha:]]+")
